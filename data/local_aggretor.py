@@ -2,6 +2,7 @@ import sys
 import hashlib
 import random
 
+print ("running local_aggretor")
 fin = open("jointed-new-split-info", "r")
 ftrain = open("local_train", "w")
 ftest = open("local_test", "w")

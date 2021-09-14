@@ -1,0 +1,14 @@
+/.idea
+/data/cat_voc.pkl
+/data/item-info
+/data/jointed-new
+/data/jointed-new-split-info
+/data/local_test
+/data/local_test_splitByUser
+/data/local_train
+/data/local_train_splitByUser
+/data/meta_Electronics.json
+/data/mid_voc.pkl
+/data/reviews-info
+/data/reviews_Electronics_5.json
+/data/uid_voc.pkl

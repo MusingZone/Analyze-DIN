@@ -1,5 +1,6 @@
 import cPickle
 
+print ("running generate_voc")
 f_train = open("local_train_splitByUser", "r")
 uid_dict = {}
 mid_dict = {}
